@@ -58,18 +58,18 @@ and `case_23` — now match.
 |---|---|
 | Requests processed | 518 |
 | Output rows written | 518 |
-| `COMPLETE` | 169 |
-| `INCOMPLETE` | 339 |
+| `COMPLETE` | 161 |
+| `INCOMPLETE` | 347 |
 | `NOT_APPLICABLE` | 10 |
-| Steps emitted | 3,056 |
+| Steps emitted | 3,117 |
 | Valid JSON rows | 518 / 518 |
 | Rows sorted by `case_id` | Yes (numeric order) |
 | Consecutive `step_no` values | Yes |
 | Phase order `FINDING → REMEDIATION → VERIFICATION` | Yes |
 | Contract validator | Pass (0 errors) |
-| Evidence observations parsed | 2,472 from 88 files |
-| Wall-clock runtime | ~2.45 seconds |
-| Output size | 611,762 bytes |
+| Evidence observations parsed | 2,546 from 90 files |
+| Wall-clock runtime | ~1.8 seconds |
+| Output size | 623,657 bytes |
 
 The ten `NOT_APPLICABLE` rows are exactly `case_533`–`case_542`: a profile correction,
 a marketing opt-out, a data-portability download, a login reset, a surname correction,

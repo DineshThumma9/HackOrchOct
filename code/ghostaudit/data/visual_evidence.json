@@ -1,0 +1,185 @@
+{
+  "evidence_04": [
+    {
+      "account_status": "ACTIVE",
+      "category": "USER_PROFILE",
+      "email": "haruka.s1838@zoho.com",
+      "observed_at": "2026-09-26T11:00:00Z",
+      "phone": "+81 90 7610 2507",
+      "resource_id": "account_5762",
+      "system": "account_service",
+      "user_ref": "user_11"
+    }
+  ],
+  "evidence_09": [
+    {
+      "category": "SEARCH_INDEX_ENTRY",
+      "display_name": "Gabriel Silva",
+      "email": "g.silva76@gmail.com",
+      "observed_at": "2026-09-01T06:00:14Z",
+      "resource_id": "search_428",
+      "system": "search_service",
+      "user_ref": "user_13"
+    },
+    {
+      "category": "SEARCH_INDEX_ENTRY",
+      "email": "g.silva76.jr@gmail.com",
+      "observed_at": "2026-09-01T06:00:14Z",
+      "resource_id": "search_1874",
+      "system": "search_service",
+      "user_ref": "user_13"
+    }
+  ],
+  "evidence_14": [
+    {
+      "category": "DATA_FLOW",
+      "connector_name": "customer-events-to-warehouse",
+      "enabled": true,
+      "mode": "continuous_sync",
+      "observed_at": "2026-08-07T08:00:00Z",
+      "resource_id": "data_flow_1121",
+      "subject_selector": "jain.aditi@gmail.com",
+      "system": "integration_service",
+      "user_ref": "user_14"
+    },
+    {
+      "category": "DATA_FLOW",
+      "connector_name": "customer-events-to-warehouse",
+      "enabled": true,
+      "mode": "continuous_sync",
+      "observed_at": "2026-08-07T08:00:00Z",
+      "resource_id": "data_flow_9846",
+      "subject_selector": "lucia-torres@gmail.com",
+      "system": "integration_service",
+      "user_ref": "user_15"
+    }
+  ],
+  "evidence_18": [
+    {
+      "category": "USER_EXPORT",
+      "download_available": true,
+      "file_name": "NST-2026-0718-1842.pdf",
+      "observed_at": "2026-07-18T11:00:00Z",
+      "owner_email": "ingrid.dahl@outlook.com",
+      "resource_id": "export_1842",
+      "system": "export_service",
+      "user_ref": "user_18"
+    }
+  ],
+  "evidence_19": [
+    {
+      "category": "ANALYTICS_PROFILE",
+      "email": "darwish.omar@icloud.com",
+      "observed_at": "2026-07-13T10:00:00Z",
+      "resource_id": "analytics_7438",
+      "system": "analytics_platform",
+      "user_ref": "user_20"
+    }
+  ],
+  "evidence_23": [
+    {
+      "category": "USER_EXPORT",
+      "created_at": "2026-06-18T06:42:00Z",
+      "download_available": true,
+      "expires_at": "2026-06-25T06:42:00Z",
+      "file_name": "customer_export_1260.zip",
+      "observed_at": "2026-06-18T12:00:00Z",
+      "owner_email": "ingrid.dahl@outlook.com",
+      "resource_id": "export_1260",
+      "system": "export_service",
+      "user_ref": "user_18"
+    }
+  ],
+  "evidence_28": [
+    {
+      "category": "SUPPORT_MESSAGE",
+      "message_excerpt": "Could you let me know where my order is and when it is expected to arrive?",
+      "observed_at": "2026-05-24T07:00:00Z",
+      "requester_email": "kagyeman8947@fastmail.com",
+      "requester_name": "Kofi Agyeman",
+      "resource_id": "support_1034",
+      "system": "support_platform",
+      "user_ref": "user_22"
+    }
+  ],
+  "evidence_32": [
+    {
+      "category": "BACKUP_ARCHIVE",
+      "customer_email": "areed1433@gmail.com",
+      "observed_at": "2026-04-29T09:00:00Z",
+      "resource_id": "backup_9287",
+      "restore_allowed": true,
+      "retention_end": "2026-07-26T00:00:00Z",
+      "system": "backup_service",
+      "user_ref": "user_16"
+    }
+  ],
+  "evidence_37": [
+    {
+      "category": "SECURITY_AUDIT_LOG",
+      "event_name": "account_closure_recorded",
+      "integrity": "valid",
+      "observed_at": "2026-09-05T07:00:00Z",
+      "resource_id": "audit_record_003",
+      "system": "security_service",
+      "user_ref": "user_03"
+    }
+  ],
+  "evidence_42": [
+    {
+      "category": "ACCOUNT_TOMBSTONE",
+      "observed_at": "2026-03-10T06:00:00Z",
+      "reference_type": "customer_key",
+      "resource_id": "tombstone_17",
+      "status": "retained_reference",
+      "system": "identity_service",
+      "user_ref": "user_17"
+    }
+  ],
+  "evidence_46": [
+    {
+      "category": "SUPPORT_ATTACHMENT",
+      "file_name": "delivery_confirmation_19.pdf",
+      "observed_at": "2026-02-13T08:00:00Z",
+      "resource_id": "object_19",
+      "system": "object_storage",
+      "user_ref": "user_07"
+    }
+  ],
+  "evidence_55": [
+    {
+      "category": "SECURITY_AUDIT_LOG",
+      "event_name": "account_closure_recorded",
+      "observed_at": "2026-09-05T06:30:00Z",
+      "resource_id": "audit_record_003",
+      "retention_until": "2027-08-25T04:03:00Z",
+      "system": "security_service",
+      "user_ref": "user_03"
+    }
+  ],
+  "evidence_58": [
+    {
+      "category": "SUPPORT_ATTACHMENT",
+      "file_name": "delivery_address_correction.pdf",
+      "observed_at": "2026-09-12T07:30:00Z",
+      "requester_email": "priya.raman@gmail.com",
+      "requester_name": "Priya Raman",
+      "requester_phone": "+91 98765 73142",
+      "resource_id": "support_001",
+      "system": "support_platform",
+      "user_ref": "user_07"
+    }
+  ],
+  "evidence_60": [
+    {
+      "category": "MARKETING_PROFILE",
+      "email": "kwame-mensah@proton.me",
+      "email_opt_in": true,
+      "observed_at": "2026-09-16T07:20:00Z",
+      "phone": "+82 10-5837-9451",
+      "resource_id": "marketing_001",
+      "system": "marketing_platform",
+      "user_ref": "user_09"
+    }
+  ]
+}

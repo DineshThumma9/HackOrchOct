@@ -18,7 +18,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT / "code"))
 
-import main as solver  # noqa: E402
+import ghostaudit as solver  # noqa: E402
 
 
 FIELDS = ["phase", "system_id", "resource_id", "operation", "state", "evidence_id"]

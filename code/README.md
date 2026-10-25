@@ -50,11 +50,19 @@ Optional sample scoring (writes `sample_output_pred.csv` and prints metrics):
 python3 code/main.py --sample
 ```
 
-Evaluation harness and contract checks:
+Optional decision-model intent engine (uses local `tev1:4b` via Ollama `/v1/systemone` with automatic regex fallback):
+
+```bash
+python3 code/main.py --tev
+# or: USE_TEV=1 python3 code/main.py
+```
+
+Evaluation harness, contract checks, and unit tests:
 
 ```bash
 python3 code/evaluation/main.py
 python3 code/evaluation/validate_output.py
+python3 -m unittest discover -s code/tests -t code
 ```
 
 ## How it works
@@ -68,7 +76,8 @@ python3 code/evaluation/validate_output.py
      an observation with its own timestamp.
    - JSON/JSONL, CSV, and plain-text logs are parsed into records.
    - PDFs and PNG screenshots are represented as transcribed facts in
-     `visual_evidence.py`, keyed by `file_id`.
+     `ghostaudit/data/visual_evidence.json`, keyed by `file_id` and loaded by
+     `ghostaudit/visual.py`.
    Each observation records system, resource id, data category, identifiers, state,
    observation time, and file capture time.
 3. **State reconstruction**. Only observations at or before `audit_at` are eligible.
@@ -97,19 +106,41 @@ python3 code/evaluation/validate_output.py
 
 ```text
 code/
-├── main.py                  # solver: parsing, identity linking, policy engine, output
-├── visual_evidence.py       # transcribed facts from PDFs and PNG screenshots
+├── main.py                  # entry-point shim (python3 code/main.py)
+├── ghostaudit/
+│   ├── config.py            # repository and dataset paths
+│   ├── taxonomy.py          # categories, systems, collection mappings
+│   ├── model.py             # Obs model, timestamp/identifier helpers
+│   ├── evidence.py          # manifest + SQL/JSON/log/handover parsers
+│   ├── visual.py            # loader for transcribed PDF/screenshot facts
+│   ├── data/
+│   │   └── visual_evidence.json
+│   ├── identities.py        # current + historical identity resolution
+│   ├── intent.py            # request-text authorisation gate
+│   ├── state.py             # point-in-time state predicates
+│   ├── steps.py             # step construction and ordering
+│   ├── policy.py            # deletion policy evaluation
+│   ├── attribution.py       # resource/subject and block attribution
+│   ├── pipeline.py          # case orchestration + CSV output
+│   └── cli.py               # command line entry point
 ├── evaluation/
 │   ├── main.py              # sample scorer + participant-authored cases
 │   ├── validate_output.py   # independent contract checks for output.csv
 │   ├── evaluation_report.md # required evaluation report
 │   └── usage_report.md      # required usage report
+├── tests/                   # stdlib unittest suite (58 tests)
 └── README.md
 ```
 
-`code/build_evidence_db.py` is an optional development helper that indexes raw evidence
-into SQLite for exploration. It is **not** used by the solver and is not required at
-runtime.
+Dependencies point one way: `cli` → `pipeline` → `policy`/`attribution` → `state`
+/`identities`/`evidence` → `model` → `taxonomy` → `config`. No module imports
+`cli` or `pipeline`, so each layer can be tested on its own with a fixture
+dataset.
+
+`code/build_evidence_db.py` is an optional development helper that projects the
+solver's parsed observations into SQLite for exploration. It reuses the same
+parsers as the solver, so there is no second parsing implementation to drift.
+It is **not** used at runtime.
 
 ## Output contract
 

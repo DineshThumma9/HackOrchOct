@@ -11,12 +11,12 @@
 | Requests processed | 518 |
 | Output file | `output.csv` (repository root) |
 | Output rows | 518 (header + 518 data rows) |
-| Steps emitted | 3,056 |
-| Evidence observations parsed | 2,472 from 88 files |
-| Wall-clock runtime | 2.45 s |
-| Output size | 611,762 bytes |
+| Steps emitted | 3,117 |
+| Evidence observations parsed | 2,546 from 90 files |
+| Wall-clock runtime | 1.80 s |
+| Output size | 623,657 bytes |
 
-Status distribution: **169 `COMPLETE`**, **339 `INCOMPLETE`**, **10 `NOT_APPLICABLE`**.
+Status distribution: **161 `COMPLETE`**, **347 `INCOMPLETE`**, **10 `NOT_APPLICABLE`**.
 
 The contract validator also passes on this output:
 
@@ -74,7 +74,8 @@ critical path:
 - intent is decided by a deterministic multilingual classifier, with tev1 used only to
   confirm the ambiguous cases during development;
 - screenshots and PDFs are represented as explicit transcribed facts in
-  `code/visual_evidence.py`, so the grader does not need an OCR engine;
+  `code/ghostaudit/data/visual_evidence.json`, so the grader does not need an OCR
+  engine;
 - policy application, resource linking, remediation ordering, and verification are
   deterministic and driven by participant-visible evidence.
 

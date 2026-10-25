@@ -1,0 +1,2300 @@
+{
+  "Please delete my account": {
+    "intent": "deletion",
+    "confidence": 0.9971526959278687,
+    "authorizes_deletion": 0.9196841025969135,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please complete the normal identity and data review for this request. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9985838859709761,
+    "authorizes_deletion": 0.8438357944142257,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please complete the normal identity and data review for this request. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9986008664428896,
+    "authorizes_deletion": 0.8329056001278282,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please apply the request across the systems covered by your deletion policy. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9954906157700759,
+    "authorizes_deletion": 0.9286750741566299,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please include information linked through current or earlier account identifiers. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9968812950138204,
+    "authorizes_deletion": 0.7858422376356973,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please apply the request across the systems covered by your deletion policy. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9960747051642617,
+    "authorizes_deletion": 0.8724981008403179,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please apply the request across the systems covered by your deletion policy. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.998392259709888,
+    "authorizes_deletion": 0.9248741053852176,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please process this under the standard personal-data deletion procedure. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9980875744801034,
+    "authorizes_deletion": 0.9121362502617968,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please include information linked through current or earlier account identifiers. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9953699368436641,
+    "authorizes_deletion": 0.8552238567100265,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please check the records connected to the account before confirming completion. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9984661936622194,
+    "authorizes_deletion": 0.6827195969687901,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please review any identifiers connected to this account as part of the request. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9979929424156293,
+    "authorizes_deletion": 0.902552580268667,
+    "authorizes": true
+  },
+  "Je demande la suppression définitive du compte associé à cette adresse e-mail. Veuillez examiner les identifiants actuels et antérieurs conformément à votre procédure de confidentialité. Merci de confirmer le résultat une fois la vérification terminée.": {
+    "intent": "deletion",
+    "confidence": 0.9971033008626145,
+    "authorizes_deletion": 0.6426147244100923,
+    "authorizes": true
+  },
+  "Please begin the deletion process for the account using this email address. Please apply the correct treatment to records covered by the request. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9872053282454764,
+    "authorizes_deletion": 0.8017151838910347,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please apply the request across the systems covered by your deletion policy. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9960034959695088,
+    "authorizes_deletion": 0.9119687222324542,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please handle any copies that fall within the scope of the deletion request. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9953874428100006,
+    "authorizes_deletion": 0.845412730962647,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please handle any copies that fall within the scope of the deletion request. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9980979634134134,
+    "authorizes_deletion": 0.9277022639590636,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please apply the correct treatment to records covered by the request. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9973532381770612,
+    "authorizes_deletion": 0.8979294290656339,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please review the account data that is eligible for deletion or de-identification. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9957614713704559,
+    "authorizes_deletion": 0.8487086210474956,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please handle any copies that fall within the scope of the deletion request. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9967482184134502,
+    "authorizes_deletion": 0.933378881205523,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please include information linked through current or earlier account identifiers. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9955832512636079,
+    "authorizes_deletion": 0.769236019374494,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please review the account data that is eligible for deletion or de-identification. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9935333239108295,
+    "authorizes_deletion": 0.7854522908845336,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please check the records connected to the account before confirming completion. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.997213382440499,
+    "authorizes_deletion": 0.7169004089230376,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please include information linked through current or earlier account identifiers. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9969846974723815,
+    "authorizes_deletion": 0.8179184378225683,
+    "authorizes": true
+  },
+  "Solicito la eliminación permanente de la cuenta asociada a este correo. Revisen los identificadores actuales y anteriores según su política de privacidad. Por favor, confirmen el resultado cuando termine la revisión.": {
+    "intent": "deletion",
+    "confidence": 0.9977054377041231,
+    "authorizes_deletion": 0.8723894234593177,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please include records associated with the account under your privacy process. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9979010398266166,
+    "authorizes_deletion": 0.8559715835823895,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please ensure the request is applied to the relevant account records. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9981983825671628,
+    "authorizes_deletion": 0.9030760560595373,
+    "authorizes": true
+  },
+  "I want to close this account and have its associated personal data deleted. Please apply the request across the systems covered by your deletion policy. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9980597826578342,
+    "authorizes_deletion": 0.9235709123834792,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please review any identifiers connected to this account as part of the request. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9974403841762658,
+    "authorizes_deletion": 0.9003966128284802,
+    "authorizes": true
+  },
+  "Please begin the deletion process for the account using this email address. Please handle any copies that fall within the scope of the deletion request. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9943231129290264,
+    "authorizes_deletion": 0.8261832477823328,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please review any identifiers connected to this account as part of the request. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9971626478346315,
+    "authorizes_deletion": 0.8916438338422635,
+    "authorizes": true
+  },
+  "이 이메일 주소에 연결된 계정의 영구 삭제를 요청합니다. 개인정보 처리 절차에 따라 현재 및 이전 식별자를 검토해 주세요. 검토가 완료되면 결과를 확인해 주세요.": {
+    "intent": "deletion",
+    "confidence": 0.992525139511919,
+    "authorizes_deletion": 0.5445431208694689,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please process this under the standard personal-data deletion procedure. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9979698102404584,
+    "authorizes_deletion": 0.9179972425757151,
+    "authorizes": true
+  },
+  "Solicito a exclusão permanente da conta associada a este e-mail. Verifiquem os identificadores atuais e anteriores conforme o processo de privacidade. Por favor, confirmem o resultado quando a análise terminar.": {
+    "intent": "deletion",
+    "confidence": 0.9960267292501584,
+    "authorizes_deletion": 0.9031873543815194,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please review the account data that is eligible for deletion or de-identification. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9970619305007847,
+    "authorizes_deletion": 0.8474827167208806,
+    "authorizes": true
+  },
+  "このメールアドレスに関連するアカウントの完全な削除を依頼します。 プライバシー手続きに従い、現在および過去の識別情報を確認してください。 確認が完了したら結果をお知らせください。": {
+    "intent": "deletion",
+    "confidence": 0.9961317787915116,
+    "authorizes_deletion": 0.7043845840328541,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please apply the request across the systems covered by your deletion policy. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9985588540629802,
+    "authorizes_deletion": 0.9040881952884243,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please apply the correct treatment to records covered by the request. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9673306661658285,
+    "authorizes_deletion": 0.7497670262528279,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please apply the request across the systems covered by your deletion policy. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9981413021022437,
+    "authorizes_deletion": 0.8826850711120808,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please review the account data that is eligible for deletion or de-identification. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9952827776209625,
+    "authorizes_deletion": 0.817506192440603,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please apply the correct treatment to records covered by the request. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9958814672383537,
+    "authorizes_deletion": 0.8803903533894591,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please apply the request across the systems covered by your deletion policy. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9978111425617588,
+    "authorizes_deletion": 0.8568504360813447,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please review the account data that is eligible for deletion or de-identification. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9982538344320939,
+    "authorizes_deletion": 0.7835171440127101,
+    "authorizes": true
+  },
+  "Please begin the deletion process for the account using this email address. Please review any identifiers connected to this account as part of the request. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9937793879200929,
+    "authorizes_deletion": 0.8276595395074487,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please review any identifiers connected to this account as part of the request. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9960448876864019,
+    "authorizes_deletion": 0.8490895479624596,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please follow the applicable retention and deletion requirements for the account. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9981946163533995,
+    "authorizes_deletion": 0.8312190568969193,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please review any identifiers connected to this account as part of the request. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.996094700700713,
+    "authorizes_deletion": 0.751181437007774,
+    "authorizes": true
+  },
+  "I want to close this account and have its associated personal data deleted. Please apply the correct treatment to records covered by the request. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9963610212341505,
+    "authorizes_deletion": 0.8989598530507545,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please follow the applicable retention and deletion requirements for the account. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9976280326441647,
+    "authorizes_deletion": 0.8929888594510192,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please complete the normal identity and data review for this request. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9931608922040563,
+    "authorizes_deletion": 0.8276584512537962,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please follow the applicable retention and deletion requirements for the account. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9987313908782542,
+    "authorizes_deletion": 0.8539508182259183,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please review the account data that is eligible for deletion or de-identification. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9969606681398383,
+    "authorizes_deletion": 0.8631047511870847,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please check the records connected to the account before confirming completion. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9955961838055878,
+    "authorizes_deletion": 0.7418709324529196,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please process this under the standard personal-data deletion procedure. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9977799141584407,
+    "authorizes_deletion": 0.9130272990682406,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please process this under the standard personal-data deletion procedure. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9977383391953135,
+    "authorizes_deletion": 0.9436516901631945,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please ensure the request is applied to the relevant account records. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.998392673806669,
+    "authorizes_deletion": 0.9281933671386756,
+    "authorizes": true
+  },
+  "I want to close this account and have its associated personal data deleted. Please process this under the standard personal-data deletion procedure. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9979919864184331,
+    "authorizes_deletion": 0.917774271381651,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please review any identifiers connected to this account as part of the request. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9970501435126435,
+    "authorizes_deletion": 0.8181015831677376,
+    "authorizes": true
+  },
+  "Please begin the deletion process for the account using this email address. Please review any identifiers connected to this account as part of the request. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9912648915584977,
+    "authorizes_deletion": 0.7642076609776504,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please include records associated with the account under your privacy process. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9968357794040563,
+    "authorizes_deletion": 0.9141427833347167,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please ensure the request is applied to the relevant account records. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9988161172499235,
+    "authorizes_deletion": 0.9113499780845745,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please ensure the request is applied to the relevant account records. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9968661141791657,
+    "authorizes_deletion": 0.9185814399998927,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please ensure the request is applied to the relevant account records. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9966993053272193,
+    "authorizes_deletion": 0.8900247451425155,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please follow the applicable retention and deletion requirements for the account. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9978131792173036,
+    "authorizes_deletion": 0.8299495739782603,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please include information linked through current or earlier account identifiers. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9961874971038489,
+    "authorizes_deletion": 0.7997940800984759,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please include records associated with the account under your privacy process. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9959404919532521,
+    "authorizes_deletion": 0.787885616588765,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please check the records connected to the account before confirming completion. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9951580309084053,
+    "authorizes_deletion": 0.6830347523246925,
+    "authorizes": true
+  },
+  "Please begin the deletion process for the account using this email address. Please apply the request across the systems covered by your deletion policy. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9934419851321128,
+    "authorizes_deletion": 0.8354646602394088,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please review the account data that is eligible for deletion or de-identification. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9918310737847228,
+    "authorizes_deletion": 0.5985028752601244,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please process this under the standard personal-data deletion procedure. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9988859369973778,
+    "authorizes_deletion": 0.93524297108396,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please follow the applicable retention and deletion requirements for the account. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9964449414620642,
+    "authorizes_deletion": 0.8539374963153009,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please follow the applicable retention and deletion requirements for the account. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9959122153878723,
+    "authorizes_deletion": 0.8861037500023619,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please check the records connected to the account before confirming completion. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9980046139257417,
+    "authorizes_deletion": 0.8518517330676921,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please check the records connected to the account before confirming completion. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9970024718087154,
+    "authorizes_deletion": 0.7799693331281381,
+    "authorizes": true
+  },
+  "I want to close this account and have its associated personal data deleted. Please review any identifiers connected to this account as part of the request. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9983238804895019,
+    "authorizes_deletion": 0.9044029685553231,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please process this under the standard personal-data deletion procedure. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9983414266208585,
+    "authorizes_deletion": 0.93817337544877,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please review any identifiers connected to this account as part of the request. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9961235560099133,
+    "authorizes_deletion": 0.8098267695403694,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please apply the correct treatment to records covered by the request. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9964954670893666,
+    "authorizes_deletion": 0.9017279944162299,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please apply the request across the systems covered by your deletion policy. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9976559840989374,
+    "authorizes_deletion": 0.8939488675150726,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please handle any copies that fall within the scope of the deletion request. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9992070497427392,
+    "authorizes_deletion": 0.9352407762488376,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please review any identifiers connected to this account as part of the request. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9960256553201807,
+    "authorizes_deletion": 0.9303411657286313,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please complete the normal identity and data review for this request. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9986533081805218,
+    "authorizes_deletion": 0.8483276406036239,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please follow the applicable retention and deletion requirements for the account. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9986553413565004,
+    "authorizes_deletion": 0.8871887502585962,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please complete the normal identity and data review for this request. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9967277496679907,
+    "authorizes_deletion": 0.74468752847047,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please include records associated with the account under your privacy process. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.996838313381794,
+    "authorizes_deletion": 0.8637464413679121,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please ensure the request is applied to the relevant account records. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9962833364961192,
+    "authorizes_deletion": 0.9201692419739408,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please ensure the request is applied to the relevant account records. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9956357682638579,
+    "authorizes_deletion": 0.886828982946519,
+    "authorizes": true
+  },
+  "Please begin the deletion process for the account using this email address. Please review the account data that is eligible for deletion or de-identification. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9845555091468513,
+    "authorizes_deletion": 0.8176032063383208,
+    "authorizes": true
+  },
+  "I want to close this account and have its associated personal data deleted. Please process this under the standard personal-data deletion procedure. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9978814530611223,
+    "authorizes_deletion": 0.9044578681515523,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please check the records connected to the account before confirming completion. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9965616672571989,
+    "authorizes_deletion": 0.7887878934963788,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please complete the normal identity and data review for this request. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9974667153198995,
+    "authorizes_deletion": 0.8645400195878875,
+    "authorizes": true
+  },
+  "Send me a copy of my data.": {
+    "intent": "access",
+    "confidence": 0.986391496947272,
+    "authorizes_deletion": 0.0279315004866836,
+    "authorizes": false
+  },
+  "Please update my phone number.": {
+    "intent": "correction",
+    "confidence": 0.9925062124202122,
+    "authorizes_deletion": 0.012109372458470475,
+    "authorizes": false
+  },
+  "Bitte löschen Sie mein Konto.": {
+    "intent": "deletion",
+    "confidence": 0.9974550498926215,
+    "authorizes_deletion": 0.9033831421038053,
+    "authorizes": true
+  },
+  "Quiero eliminar mi cuenta y mis datos.": {
+    "intent": "deletion",
+    "confidence": 0.9953505353620247,
+    "authorizes_deletion": 0.907028884508208,
+    "authorizes": true
+  },
+  "このメールアドレスに関連するアカウントの完全な削除を依頼します。": {
+    "intent": "deletion",
+    "confidence": 0.9954347869815006,
+    "authorizes_deletion": 0.81967861513122,
+    "authorizes": true
+  },
+  "이 이메일 주소에 연결된 계정의 영구 삭제를 요청합니다.": {
+    "intent": "deletion",
+    "confidence": 0.993664365216602,
+    "authorizes_deletion": 0.7146202642318529,
+    "authorizes": true
+  },
+  "Please delete my account.": {
+    "intent": "deletion",
+    "confidence": 0.9971125005993778,
+    "authorizes_deletion": 0.9177656347239824,
+    "authorizes": true
+  },
+  "Delete my account.": {
+    "intent": "deletion",
+    "confidence": 0.9953220831084502,
+    "authorizes_deletion": 0.9083300487532052,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please handle any copies that fall within the scope of the deletion request. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9956145147307323,
+    "authorizes_deletion": 0.9085072946224743,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please apply the correct treatment to records covered by the request. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9983955232541277,
+    "authorizes_deletion": 0.9029958906545653,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please ensure the request is applied to the relevant account records. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9977854435232261,
+    "authorizes_deletion": 0.928196163852202,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please process this under the standard personal-data deletion procedure. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9980365854517642,
+    "authorizes_deletion": 0.889117706128736,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please apply the correct treatment to records covered by the request. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9955064584967879,
+    "authorizes_deletion": 0.8098611354171354,
+    "authorizes": true
+  },
+  "Please begin the deletion process for the account using this email address. Please review any identifiers connected to this account as part of the request. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9939207475449001,
+    "authorizes_deletion": 0.8139566431739544,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please include information linked through current or earlier account identifiers. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.995454575391425,
+    "authorizes_deletion": 0.8582567718308456,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please include records associated with the account under your privacy process. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9982082723636663,
+    "authorizes_deletion": 0.9000815989457098,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please review any identifiers connected to this account as part of the request. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9987798373362182,
+    "authorizes_deletion": 0.8471278602617445,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please check the records connected to the account before confirming completion. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9940794245111285,
+    "authorizes_deletion": 0.9160659209079751,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please include information linked through current or earlier account identifiers. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9978861225421282,
+    "authorizes_deletion": 0.8190459761446374,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please complete the normal identity and data review for this request. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9973562238953992,
+    "authorizes_deletion": 0.8246774094252669,
+    "authorizes": true
+  },
+  "Please begin the deletion process for the account using this email address. Please handle any copies that fall within the scope of the deletion request. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9933119082091446,
+    "authorizes_deletion": 0.8512349441906537,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please follow the applicable retention and deletion requirements for the account. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9983010604195683,
+    "authorizes_deletion": 0.8812014081249884,
+    "authorizes": true
+  },
+  "Please begin the deletion process for the account using this email address. Please check the records connected to the account before confirming completion. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9893109659608013,
+    "authorizes_deletion": 0.8114625109739209,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please review the account data that is eligible for deletion or de-identification. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9960239549924197,
+    "authorizes_deletion": 0.7539934714037921,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please follow the applicable retention and deletion requirements for the account. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9955852755489836,
+    "authorizes_deletion": 0.7801077640402938,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please ensure the request is applied to the relevant account records. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9962462184854494,
+    "authorizes_deletion": 0.9056337700292516,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please follow the applicable retention and deletion requirements for the account. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9931654077081642,
+    "authorizes_deletion": 0.8829283818858643,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please apply the correct treatment to records covered by the request. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9978576121764731,
+    "authorizes_deletion": 0.8587856770912449,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please follow the applicable retention and deletion requirements for the account. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9978825911968053,
+    "authorizes_deletion": 0.8962132357141139,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please follow the applicable retention and deletion requirements for the account. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9990298432943041,
+    "authorizes_deletion": 0.8710587674530151,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please include information linked through current or earlier account identifiers. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9972128029259568,
+    "authorizes_deletion": 0.8574058718942693,
+    "authorizes": true
+  },
+  "I want to close this account and have its associated personal data deleted. Please process this under the standard personal-data deletion procedure. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9972835804004597,
+    "authorizes_deletion": 0.9357868762868888,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please apply the request across the systems covered by your deletion policy. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9958354871748357,
+    "authorizes_deletion": 0.8761695103309378,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please check the records connected to the account before confirming completion. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9977039616366356,
+    "authorizes_deletion": 0.8139465338370984,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please review any identifiers connected to this account as part of the request. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9988026367052916,
+    "authorizes_deletion": 0.8642529554783415,
+    "authorizes": true
+  },
+  "I want to close this account and have its associated personal data deleted. Please process this under the standard personal-data deletion procedure. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9965469441503567,
+    "authorizes_deletion": 0.9233832891296696,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please include information linked through current or earlier account identifiers. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9970260657041793,
+    "authorizes_deletion": 0.7923833009675347,
+    "authorizes": true
+  },
+  "I want to close this account and have its associated personal data deleted. Please check the records connected to the account before confirming completion. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9923164558913775,
+    "authorizes_deletion": 0.7034559709616462,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please include information linked through current or earlier account identifiers. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9986305026189235,
+    "authorizes_deletion": 0.9177924056748309,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please follow the applicable retention and deletion requirements for the account. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9945626483006639,
+    "authorizes_deletion": 0.9125887352617863,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please ensure the request is applied to the relevant account records. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9967756263111613,
+    "authorizes_deletion": 0.9326785689009356,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please follow the applicable retention and deletion requirements for the account. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9973464029154806,
+    "authorizes_deletion": 0.8810723595969444,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please apply the correct treatment to records covered by the request. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9968193221269362,
+    "authorizes_deletion": 0.9341633939947183,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please include records associated with the account under your privacy process. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9953574372545452,
+    "authorizes_deletion": 0.6910121277070069,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please include information linked through current or earlier account identifiers. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9955377616461011,
+    "authorizes_deletion": 0.6527642818496259,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please review the account data that is eligible for deletion or de-identification. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9911501419434441,
+    "authorizes_deletion": 0.6401500521700297,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please process this under the standard personal-data deletion procedure. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9974102334035244,
+    "authorizes_deletion": 0.9213319093631028,
+    "authorizes": true
+  },
+  "I want to close this account and have its associated personal data deleted. Please apply the correct treatment to records covered by the request. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9972958967776515,
+    "authorizes_deletion": 0.9075290170356252,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please handle any copies that fall within the scope of the deletion request. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9955017298223201,
+    "authorizes_deletion": 0.9157140153556542,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please apply the request across the systems covered by your deletion policy. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.998001221379745,
+    "authorizes_deletion": 0.8880107969321389,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please review the account data that is eligible for deletion or de-identification. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9957147437427416,
+    "authorizes_deletion": 0.878031624958562,
+    "authorizes": true
+  },
+  "I want to close this account and have its associated personal data deleted. Please include records associated with the account under your privacy process. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9979331093493775,
+    "authorizes_deletion": 0.8469425138031357,
+    "authorizes": true
+  },
+  "Please begin the deletion process for the account using this email address. Please check the records connected to the account before confirming completion. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9912564553044518,
+    "authorizes_deletion": 0.7857950474800117,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please complete the normal identity and data review for this request. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9986280793743221,
+    "authorizes_deletion": 0.8588809497724259,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please process this under the standard personal-data deletion procedure. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9986273812802059,
+    "authorizes_deletion": 0.9303863928702353,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please ensure the request is applied to the relevant account records. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9965655181586236,
+    "authorizes_deletion": 0.9214242064792957,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please review any identifiers connected to this account as part of the request. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9972826710865269,
+    "authorizes_deletion": 0.9281962909731564,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please review the account data that is eligible for deletion or de-identification. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9963555213528482,
+    "authorizes_deletion": 0.911863161746911,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please handle any copies that fall within the scope of the deletion request. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.997207030541807,
+    "authorizes_deletion": 0.9188237580173845,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please review any identifiers connected to this account as part of the request. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9980026195633829,
+    "authorizes_deletion": 0.8867186736217781,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please process this under the standard personal-data deletion procedure. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9976797309056638,
+    "authorizes_deletion": 0.9410853802095366,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please include information linked through current or earlier account identifiers. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9972221548575368,
+    "authorizes_deletion": 0.8340074980146224,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please handle any copies that fall within the scope of the deletion request. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9977966244253265,
+    "authorizes_deletion": 0.9207849458698321,
+    "authorizes": true
+  },
+  "Please begin the deletion process for the account using this email address. Please include records associated with the account under your privacy process. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9937750978272479,
+    "authorizes_deletion": 0.8411274967102793,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please apply the request across the systems covered by your deletion policy. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9968838004506698,
+    "authorizes_deletion": 0.812078035034433,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please apply the request across the systems covered by your deletion policy. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9967415954741639,
+    "authorizes_deletion": 0.8760361789618561,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please apply the request across the systems covered by your deletion policy. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9954917748892192,
+    "authorizes_deletion": 0.8791508204801105,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please handle any copies that fall within the scope of the deletion request. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9974116003752179,
+    "authorizes_deletion": 0.894005452377912,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please check the records connected to the account before confirming completion. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9957383980193419,
+    "authorizes_deletion": 0.5539200624998903,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please review any identifiers connected to this account as part of the request. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9983166891753786,
+    "authorizes_deletion": 0.829834060131004,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please include records associated with the account under your privacy process. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9949033152382616,
+    "authorizes_deletion": 0.8104540046114365,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please apply the request across the systems covered by your deletion policy. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9977519728239747,
+    "authorizes_deletion": 0.8571841936822193,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please apply the request across the systems covered by your deletion policy. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.997711118375468,
+    "authorizes_deletion": 0.9006257639796882,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please ensure the request is applied to the relevant account records. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9963692129782605,
+    "authorizes_deletion": 0.9233803204318505,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please review the account data that is eligible for deletion or de-identification. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9975570864803016,
+    "authorizes_deletion": 0.9320421398769432,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please process this under the standard personal-data deletion procedure. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9987701038653916,
+    "authorizes_deletion": 0.9355116028857952,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please check the records connected to the account before confirming completion. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9964786988515357,
+    "authorizes_deletion": 0.8889308441904026,
+    "authorizes": true
+  },
+  "I want to close this account and have its associated personal data deleted. Please ensure the request is applied to the relevant account records. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9973604232347244,
+    "authorizes_deletion": 0.9017536823078984,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please include information linked through current or earlier account identifiers. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9953123058579393,
+    "authorizes_deletion": 0.777668114705574,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please review the account data that is eligible for deletion or de-identification. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9951317323170293,
+    "authorizes_deletion": 0.8792614212956779,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please check the records connected to the account before confirming completion. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9905132775540846,
+    "authorizes_deletion": 0.86837593753291,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please include records associated with the account under your privacy process. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9965048166375717,
+    "authorizes_deletion": 0.8104991230627795,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please apply the correct treatment to records covered by the request. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9937434860882243,
+    "authorizes_deletion": 0.824306185473347,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please apply the correct treatment to records covered by the request. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9959628460760421,
+    "authorizes_deletion": 0.8526967859400354,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please complete the normal identity and data review for this request. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9977741798417494,
+    "authorizes_deletion": 0.8907696676352591,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please apply the correct treatment to records covered by the request. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9956785925600147,
+    "authorizes_deletion": 0.893392998317746,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please ensure the request is applied to the relevant account records. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9977476735556972,
+    "authorizes_deletion": 0.9013699395178044,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please include records associated with the account under your privacy process. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9970178826720048,
+    "authorizes_deletion": 0.8278977360017227,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please complete the normal identity and data review for this request. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9980493660119786,
+    "authorizes_deletion": 0.8640729440987124,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please process this under the standard personal-data deletion procedure. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9984578915337791,
+    "authorizes_deletion": 0.9380295057300523,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please review the account data that is eligible for deletion or de-identification. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.994738761800232,
+    "authorizes_deletion": 0.8349409217829894,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please complete the normal identity and data review for this request. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9977292873360388,
+    "authorizes_deletion": 0.871271343030096,
+    "authorizes": true
+  },
+  "I want to close this account and have its associated personal data deleted. Please complete the normal identity and data review for this request. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9965574478366979,
+    "authorizes_deletion": 0.8895955535239004,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please ensure the request is applied to the relevant account records. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.995802507344181,
+    "authorizes_deletion": 0.8483497265840747,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please ensure the request is applied to the relevant account records. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9975987879042796,
+    "authorizes_deletion": 0.9210219633777896,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please apply the correct treatment to records covered by the request. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9955847243133935,
+    "authorizes_deletion": 0.9100299835268802,
+    "authorizes": true
+  },
+  "Please begin the deletion process for the account using this email address. Please check the records connected to the account before confirming completion. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9941287402107418,
+    "authorizes_deletion": 0.6682276911847964,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please include information linked through current or earlier account identifiers. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9984758081015799,
+    "authorizes_deletion": 0.7815325994586227,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please process this under the standard personal-data deletion procedure. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9972001733939679,
+    "authorizes_deletion": 0.891344201991915,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please check the records connected to the account before confirming completion. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.999033682241241,
+    "authorizes_deletion": 0.7643248402778412,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please process this under the standard personal-data deletion procedure. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9974910182185256,
+    "authorizes_deletion": 0.9397282361291488,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please review any identifiers connected to this account as part of the request. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9988680199418131,
+    "authorizes_deletion": 0.8729931504427925,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please check the records connected to the account before confirming completion. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9973820476883828,
+    "authorizes_deletion": 0.782243005753493,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please handle any copies that fall within the scope of the deletion request. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9950475746537444,
+    "authorizes_deletion": 0.9202889536709891,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please apply the request across the systems covered by your deletion policy. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9977068955860207,
+    "authorizes_deletion": 0.8699538574078561,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please ensure the request is applied to the relevant account records. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9953873236469711,
+    "authorizes_deletion": 0.7412981653167878,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please apply the request across the systems covered by your deletion policy. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9966025444367895,
+    "authorizes_deletion": 0.9072499666881138,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please include information linked through current or earlier account identifiers. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9980687060811524,
+    "authorizes_deletion": 0.8433203490734069,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please apply the request across the systems covered by your deletion policy. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9971617951307636,
+    "authorizes_deletion": 0.8050545090667753,
+    "authorizes": true
+  },
+  "Please begin the deletion process for the account using this email address. Please check the records connected to the account before confirming completion. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9893449377155257,
+    "authorizes_deletion": 0.7033783777625007,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please apply the correct treatment to records covered by the request. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9780457336624926,
+    "authorizes_deletion": 0.786292891178619,
+    "authorizes": true
+  },
+  "Please begin the deletion process for the account using this email address. Please complete the normal identity and data review for this request. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9843811315578445,
+    "authorizes_deletion": 0.6966734254860654,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please apply the request across the systems covered by your deletion policy. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9958923532667676,
+    "authorizes_deletion": 0.8271147337373818,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please process this under the standard personal-data deletion procedure. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9980020278369993,
+    "authorizes_deletion": 0.9252019790103151,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please process this under the standard personal-data deletion procedure. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9976784289485292,
+    "authorizes_deletion": 0.9510545747012629,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please include records associated with the account under your privacy process. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9958339727639373,
+    "authorizes_deletion": 0.8819505208788182,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please review the account data that is eligible for deletion or de-identification. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9950319825083777,
+    "authorizes_deletion": 0.6674559470571197,
+    "authorizes": true
+  },
+  "I want to close this account and have its associated personal data deleted. Please follow the applicable retention and deletion requirements for the account. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9980641910895864,
+    "authorizes_deletion": 0.8665122152115049,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please follow the applicable retention and deletion requirements for the account. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9962511436610348,
+    "authorizes_deletion": 0.877816782908794,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please follow the applicable retention and deletion requirements for the account. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9985372464485923,
+    "authorizes_deletion": 0.8954578799649574,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please ensure the request is applied to the relevant account records. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9979631223363795,
+    "authorizes_deletion": 0.918650170749484,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please ensure the request is applied to the relevant account records. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9982731629390196,
+    "authorizes_deletion": 0.9423943747009912,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please check the records connected to the account before confirming completion. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9973096766529883,
+    "authorizes_deletion": 0.8488904977424386,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please include information linked through current or earlier account identifiers. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.995667115212807,
+    "authorizes_deletion": 0.8873846525703285,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please apply the request across the systems covered by your deletion policy. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9980950215152039,
+    "authorizes_deletion": 0.9011197149231168,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please process this under the standard personal-data deletion procedure. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9981993808916789,
+    "authorizes_deletion": 0.9015674787359969,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please review any identifiers connected to this account as part of the request. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9969484100316589,
+    "authorizes_deletion": 0.886640672823545,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please apply the correct treatment to records covered by the request. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9980429495052613,
+    "authorizes_deletion": 0.8172188989720428,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please review the account data that is eligible for deletion or de-identification. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9885903217171447,
+    "authorizes_deletion": 0.7630667595776541,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please include records associated with the account under your privacy process. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.996576377551833,
+    "authorizes_deletion": 0.8226367891737956,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please check the records connected to the account before confirming completion. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9968233076649999,
+    "authorizes_deletion": 0.7666558669751627,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please review the account data that is eligible for deletion or de-identification. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9952898636975067,
+    "authorizes_deletion": 0.839646672970894,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please complete the normal identity and data review for this request. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9979939833007345,
+    "authorizes_deletion": 0.8764595559201924,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please apply the correct treatment to records covered by the request. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9982564382866634,
+    "authorizes_deletion": 0.9234346848495704,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please review any identifiers connected to this account as part of the request. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.998057899843307,
+    "authorizes_deletion": 0.9065634919793774,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please include records associated with the account under your privacy process. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9979557865361719,
+    "authorizes_deletion": 0.8952139044024452,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please check the records connected to the account before confirming completion. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9978210984357494,
+    "authorizes_deletion": 0.8624817866820956,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please review the account data that is eligible for deletion or de-identification. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9906133774584138,
+    "authorizes_deletion": 0.7880395366784043,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please review the account data that is eligible for deletion or de-identification. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9939526400571581,
+    "authorizes_deletion": 0.7856614615618869,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please apply the correct treatment to records covered by the request. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9810952374533846,
+    "authorizes_deletion": 0.7694174468028125,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please review the account data that is eligible for deletion or de-identification. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9940714185864642,
+    "authorizes_deletion": 0.8814232636198152,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please apply the correct treatment to records covered by the request. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.978921868014258,
+    "authorizes_deletion": 0.7723922061919581,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please process this under the standard personal-data deletion procedure. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.998014490734797,
+    "authorizes_deletion": 0.9606572083842744,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please include information linked through current or earlier account identifiers. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9977143584146664,
+    "authorizes_deletion": 0.8711318004159615,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please apply the correct treatment to records covered by the request. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9961002831700443,
+    "authorizes_deletion": 0.9183157170560662,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please ensure the request is applied to the relevant account records. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9971369918497676,
+    "authorizes_deletion": 0.9093187873356932,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please complete the normal identity and data review for this request. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9968324966969726,
+    "authorizes_deletion": 0.8610953020556659,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please ensure the request is applied to the relevant account records. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9964918848888114,
+    "authorizes_deletion": 0.8473988756588582,
+    "authorizes": true
+  },
+  "I want to close this account and have its associated personal data deleted. Please include records associated with the account under your privacy process. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.996293063129484,
+    "authorizes_deletion": 0.9125309008851371,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please apply the request across the systems covered by your deletion policy. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9960850862617072,
+    "authorizes_deletion": 0.8390234556608676,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please include records associated with the account under your privacy process. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9959423820559611,
+    "authorizes_deletion": 0.8376726194709884,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please review the account data that is eligible for deletion or de-identification. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9925575359227424,
+    "authorizes_deletion": 0.7222424314714458,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please handle any copies that fall within the scope of the deletion request. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9990969359485653,
+    "authorizes_deletion": 0.9202507477658367,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please follow the applicable retention and deletion requirements for the account. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9985620677614582,
+    "authorizes_deletion": 0.876549159530359,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please ensure the request is applied to the relevant account records. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9978960776691861,
+    "authorizes_deletion": 0.8730705317499435,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please review the account data that is eligible for deletion or de-identification. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9944150140677195,
+    "authorizes_deletion": 0.7398198627625051,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please check the records connected to the account before confirming completion. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9957594729744605,
+    "authorizes_deletion": 0.8595062839162487,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please ensure the request is applied to the relevant account records. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9978622354118349,
+    "authorizes_deletion": 0.9186696965993336,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please review the account data that is eligible for deletion or de-identification. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9945329636108168,
+    "authorizes_deletion": 0.8385080808312276,
+    "authorizes": true
+  },
+  "Please begin the deletion process for the account using this email address. Please ensure the request is applied to the relevant account records. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9847543676409297,
+    "authorizes_deletion": 0.6577273818139743,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please ensure the request is applied to the relevant account records. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9951274029933559,
+    "authorizes_deletion": 0.913119493722126,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please handle any copies that fall within the scope of the deletion request. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9985770986057443,
+    "authorizes_deletion": 0.8973245685322176,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please apply the correct treatment to records covered by the request. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9932521292317388,
+    "authorizes_deletion": 0.8907002401523902,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please process this under the standard personal-data deletion procedure. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9980522825087108,
+    "authorizes_deletion": 0.9364688599774252,
+    "authorizes": true
+  },
+  "Please begin the deletion process for the account using this email address. Please include information linked through current or earlier account identifiers. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9902055700889081,
+    "authorizes_deletion": 0.802692421252693,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please follow the applicable retention and deletion requirements for the account. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9939283408523265,
+    "authorizes_deletion": 0.8499699595263472,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please follow the applicable retention and deletion requirements for the account. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9956137956966156,
+    "authorizes_deletion": 0.7056440087290217,
+    "authorizes": true
+  },
+  "I want to close this account and have its associated personal data deleted. Please apply the correct treatment to records covered by the request. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9978716154614389,
+    "authorizes_deletion": 0.8820033332728112,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please process this under the standard personal-data deletion procedure. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9973898680906182,
+    "authorizes_deletion": 0.9109732609571445,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please follow the applicable retention and deletion requirements for the account. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9929883803427143,
+    "authorizes_deletion": 0.8770237028951612,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please check the records connected to the account before confirming completion. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9911888426053244,
+    "authorizes_deletion": 0.7666671268634667,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please include information linked through current or earlier account identifiers. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.998625702448694,
+    "authorizes_deletion": 0.8302543492305982,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please review any identifiers connected to this account as part of the request. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9979285147490303,
+    "authorizes_deletion": 0.8556225107996314,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please check the records connected to the account before confirming completion. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9970377480605419,
+    "authorizes_deletion": 0.705028768851733,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please follow the applicable retention and deletion requirements for the account. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9974682746049313,
+    "authorizes_deletion": 0.901592188649185,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please handle any copies that fall within the scope of the deletion request. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9989575989771686,
+    "authorizes_deletion": 0.9231907804820293,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please review any identifiers connected to this account as part of the request. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9969246998654329,
+    "authorizes_deletion": 0.823005782013616,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please include information linked through current or earlier account identifiers. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9967236903483174,
+    "authorizes_deletion": 0.7785191034703036,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please complete the normal identity and data review for this request. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9951644822350315,
+    "authorizes_deletion": 0.9241033018838316,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please check the records connected to the account before confirming completion. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9954636255974332,
+    "authorizes_deletion": 0.6351260885477757,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please complete the normal identity and data review for this request. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9975925900667014,
+    "authorizes_deletion": 0.8473169708656785,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please apply the correct treatment to records covered by the request. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9954045701509762,
+    "authorizes_deletion": 0.9290806884701327,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please complete the normal identity and data review for this request. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.996302033901326,
+    "authorizes_deletion": 0.8741038944506383,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please include information linked through current or earlier account identifiers. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9985856906593525,
+    "authorizes_deletion": 0.8210399085508769,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please review the account data that is eligible for deletion or de-identification. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9959458259334931,
+    "authorizes_deletion": 0.8548358866144785,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please follow the applicable retention and deletion requirements for the account. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9948971722645117,
+    "authorizes_deletion": 0.8656518862252546,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please include records associated with the account under your privacy process. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9966796171145471,
+    "authorizes_deletion": 0.7863589075675597,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please ensure the request is applied to the relevant account records. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9960734751962891,
+    "authorizes_deletion": 0.864264814837357,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please apply the request across the systems covered by your deletion policy. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9977799656678302,
+    "authorizes_deletion": 0.9321357083794438,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please apply the request across the systems covered by your deletion policy. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9959632932905844,
+    "authorizes_deletion": 0.8663870736729591,
+    "authorizes": true
+  },
+  "I want to close this account and have its associated personal data deleted. Please handle any copies that fall within the scope of the deletion request. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9986502951960994,
+    "authorizes_deletion": 0.9275169344357241,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please apply the correct treatment to records covered by the request. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9948128091958227,
+    "authorizes_deletion": 0.7808254212394165,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please complete the normal identity and data review for this request. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9982248758804303,
+    "authorizes_deletion": 0.9001270470205716,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please include information linked through current or earlier account identifiers. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9956025467478491,
+    "authorizes_deletion": 0.7863326309786992,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please follow the applicable retention and deletion requirements for the account. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9984666363858873,
+    "authorizes_deletion": 0.8558196126227838,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please check the records connected to the account before confirming completion. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.99723460418109,
+    "authorizes_deletion": 0.7193963319033534,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please review any identifiers connected to this account as part of the request. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9967599655380404,
+    "authorizes_deletion": 0.7440734565253037,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please include records associated with the account under your privacy process. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9972205449814243,
+    "authorizes_deletion": 0.9260366251748193,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please process this under the standard personal-data deletion procedure. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9966770903013644,
+    "authorizes_deletion": 0.9090187298563795,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please apply the correct treatment to records covered by the request. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9950042378279655,
+    "authorizes_deletion": 0.896828478944802,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please review the account data that is eligible for deletion or de-identification. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9916861211037631,
+    "authorizes_deletion": 0.801088316688556,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please handle any copies that fall within the scope of the deletion request. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9965523615383788,
+    "authorizes_deletion": 0.9255784781630794,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please check the records connected to the account before confirming completion. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9961961599769869,
+    "authorizes_deletion": 0.8581623081580518,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please process this under the standard personal-data deletion procedure. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9987355578575857,
+    "authorizes_deletion": 0.9260193788929326,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please review any identifiers connected to this account as part of the request. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9987730202614636,
+    "authorizes_deletion": 0.862960229580044,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please ensure the request is applied to the relevant account records. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9965053886487687,
+    "authorizes_deletion": 0.8518281421243705,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please ensure the request is applied to the relevant account records. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9963651481865676,
+    "authorizes_deletion": 0.9031137801231018,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please check the records connected to the account before confirming completion. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9952602853309026,
+    "authorizes_deletion": 0.669055971249623,
+    "authorizes": true
+  },
+  "Please begin the deletion process for the account using this email address. Please follow the applicable retention and deletion requirements for the account. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9895753212703431,
+    "authorizes_deletion": 0.8122595985775802,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please apply the request across the systems covered by your deletion policy. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9980803523279107,
+    "authorizes_deletion": 0.8225212682237197,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please follow the applicable retention and deletion requirements for the account. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9967210276062253,
+    "authorizes_deletion": 0.861238283020033,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please review any identifiers connected to this account as part of the request. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9963659940801104,
+    "authorizes_deletion": 0.8882351828609547,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please review any identifiers connected to this account as part of the request. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9977403620304108,
+    "authorizes_deletion": 0.9340906269002383,
+    "authorizes": true
+  },
+  "Please begin the deletion process for the account using this email address. Please review the account data that is eligible for deletion or de-identification. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9892952938053117,
+    "authorizes_deletion": 0.8414420241722324,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please complete the normal identity and data review for this request. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9983854330446155,
+    "authorizes_deletion": 0.8774398716310643,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please include information linked through current or earlier account identifiers. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.995861164990748,
+    "authorizes_deletion": 0.6912214131153981,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please apply the request across the systems covered by your deletion policy. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9979562898293247,
+    "authorizes_deletion": 0.8914125318016712,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please handle any copies that fall within the scope of the deletion request. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9980534562941494,
+    "authorizes_deletion": 0.901004768995187,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please complete the normal identity and data review for this request. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9962502730332301,
+    "authorizes_deletion": 0.8385075642737094,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please include records associated with the account under your privacy process. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9950436200725783,
+    "authorizes_deletion": 0.8357798329681391,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please complete the normal identity and data review for this request. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9966847345016084,
+    "authorizes_deletion": 0.8900969743871737,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please check the records connected to the account before confirming completion. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9951795251157999,
+    "authorizes_deletion": 0.8600599848476732,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please follow the applicable retention and deletion requirements for the account. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9977621822344962,
+    "authorizes_deletion": 0.917167417677954,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please include information linked through current or earlier account identifiers. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9986720428961996,
+    "authorizes_deletion": 0.8602485786308309,
+    "authorizes": true
+  },
+  "I want to close this account and have its associated personal data deleted. Please review any identifiers connected to this account as part of the request. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9972955291911457,
+    "authorizes_deletion": 0.9061010418165392,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please review the account data that is eligible for deletion or de-identification. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9920499084439823,
+    "authorizes_deletion": 0.7872665640822398,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please include records associated with the account under your privacy process. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9976165897564273,
+    "authorizes_deletion": 0.9235302425954153,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please review the account data that is eligible for deletion or de-identification. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.996471664249417,
+    "authorizes_deletion": 0.844817533945782,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please complete the normal identity and data review for this request. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.996750459471018,
+    "authorizes_deletion": 0.8949877123335739,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please check the records connected to the account before confirming completion. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9969421218679201,
+    "authorizes_deletion": 0.8170319272335798,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please follow the applicable retention and deletion requirements for the account. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9971808867936565,
+    "authorizes_deletion": 0.9235379202005957,
+    "authorizes": true
+  },
+  "Please begin the deletion process for the account using this email address. Please follow the applicable retention and deletion requirements for the account. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9833830187216289,
+    "authorizes_deletion": 0.6978052312005599,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please complete the normal identity and data review for this request. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9987755463723509,
+    "authorizes_deletion": 0.8577231879140821,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please include records associated with the account under your privacy process. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9953121178968293,
+    "authorizes_deletion": 0.7887996506447698,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please review any identifiers connected to this account as part of the request. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9986164252716928,
+    "authorizes_deletion": 0.9028183143472079,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please include records associated with the account under your privacy process. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9954021943838689,
+    "authorizes_deletion": 0.775081540122538,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please follow the applicable retention and deletion requirements for the account. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9936837145907774,
+    "authorizes_deletion": 0.90229948227705,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please complete the normal identity and data review for this request. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9947502034849138,
+    "authorizes_deletion": 0.8897565551092156,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please review any identifiers connected to this account as part of the request. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9986656531693552,
+    "authorizes_deletion": 0.9376622751831398,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please ensure the request is applied to the relevant account records. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9976984295015789,
+    "authorizes_deletion": 0.9366490506805318,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please handle any copies that fall within the scope of the deletion request. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9977616692149395,
+    "authorizes_deletion": 0.9265245140452957,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please check the records connected to the account before confirming completion. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9982748743094307,
+    "authorizes_deletion": 0.781507196949606,
+    "authorizes": true
+  },
+  "I want to close this account and have its associated personal data deleted. Please complete the normal identity and data review for this request. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9954472926725345,
+    "authorizes_deletion": 0.8995871751000366,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please include information linked through current or earlier account identifiers. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9948963281819896,
+    "authorizes_deletion": 0.7476098365337468,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please include records associated with the account under your privacy process. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9968420788990374,
+    "authorizes_deletion": 0.9397753201930801,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please follow the applicable retention and deletion requirements for the account. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9977437088927585,
+    "authorizes_deletion": 0.9152519465983742,
+    "authorizes": true
+  },
+  "I want to close this account and have its associated personal data deleted. Please include information linked through current or earlier account identifiers. Please let me know once the request has been reviewed.": {
+    "intent": "deletion",
+    "confidence": 0.9973201498091944,
+    "authorizes_deletion": 0.8203750254143692,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please ensure the request is applied to the relevant account records. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9988741684890537,
+    "authorizes_deletion": 0.9232060622543389,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please follow the applicable retention and deletion requirements for the account. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9963412436771151,
+    "authorizes_deletion": 0.9242734216175695,
+    "authorizes": true
+  },
+  "Please remove my profile and clean my personal details out of earlier support conversations. Some of those messages also relate to another customer, so the conversation itself may need to stay.": {
+    "intent": "deletion",
+    "confidence": 0.99506081704514,
+    "authorizes_deletion": 0.7410134849165344,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please apply the correct treatment to records covered by the request. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9966092428303928,
+    "authorizes_deletion": 0.8886021814868112,
+    "authorizes": true
+  },
+  "Hi, I haven’t used this account in years and would like it closed. Please remove the profile and the personal details attached to it.": {
+    "intent": "deletion",
+    "confidence": 0.9977759136892255,
+    "authorizes_deletion": 0.904403793082163,
+    "authorizes": true
+  },
+  "I am requesting deletion of the account registered to this email address. Please complete the normal identity and data review for this request. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9976986995599727,
+    "authorizes_deletion": 0.8237272816866187,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please review any identifiers connected to this account as part of the request. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9981134155039387,
+    "authorizes_deletion": 0.8591265144628767,
+    "authorizes": true
+  },
+  "Please process a permanent account-deletion request for this email address. Please process this under the standard personal-data deletion procedure. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.99749843656071,
+    "authorizes_deletion": 0.9518244985588753,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please include information linked through current or earlier account identifiers. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9979323897330856,
+    "authorizes_deletion": 0.9053688815008658,
+    "authorizes": true
+  },
+  "Intenté eliminar mi cuenta ayer, pero la página terminó mostrando un error. ¿Pueden comprobar si todavía queda algún dato y completar la eliminación si hace falta?": {
+    "intent": "deletion",
+    "confidence": 0.9670588996757656,
+    "authorizes_deletion": 0.4609016143210578,
+    "authorizes": false
+  },
+  "Please erase the account linked to this email address. Please follow the applicable retention and deletion requirements for the account. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.9958077786008324,
+    "authorizes_deletion": 0.7906711493561128,
+    "authorizes": true
+  },
+  "I would like the account associated with this address to be erased. Please handle any copies that fall within the scope of the deletion request. Please confirm the result after completing the required checks.": {
+    "intent": "deletion",
+    "confidence": 0.9984630946044464,
+    "authorizes_deletion": 0.8930974413305531,
+    "authorizes": true
+  },
+  "Please permanently delete the account associated with this email address. Please review any identifiers connected to this account as part of the request. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9965791517331114,
+    "authorizes_deletion": 0.8763965522180199,
+    "authorizes": true
+  },
+  "I changed the email on this account before deleting it. Please check that nothing tied to the old address was left behind, even in systems that do not display the email.": {
+    "intent": "deletion",
+    "confidence": 0.15034752592241046,
+    "authorizes_deletion": 0.7216420690859995,
+    "authorizes": true
+  },
+  "I am asking you to remove my account and the personal information linked to it. Please include information linked through current or earlier account identifiers. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9966485705429798,
+    "authorizes_deletion": 0.8665494957084776,
+    "authorizes": true
+  },
+  "I would like to submit a request to delete this account and its personal data. Please apply the request across the systems covered by your deletion policy. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9985744900628355,
+    "authorizes_deletion": 0.8824423113176106,
+    "authorizes": true
+  },
+  "Please erase the account linked to this email address. Please review the account data that is eligible for deletion or de-identification. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9844236102643628,
+    "authorizes_deletion": 0.6973094801238925,
+    "authorizes": true
+  },
+  "I want to close this account and have its associated personal data deleted. Please include information linked through current or earlier account identifiers. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9966003631840838,
+    "authorizes_deletion": 0.8649903722470355,
+    "authorizes": true
+  },
+  "I’m deleting my account. You can keep anonymous statistics, but nothing in analytics should still point back to me.": {
+    "intent": "deletion",
+    "confidence": 0.9579511817366051,
+    "authorizes_deletion": 0.9078811961888794,
+    "authorizes": true
+  },
+  "I was told the account had been deleted, but I can still find traces in search, support, and analytics. Please handle them and disable any synchronization that could recreate them.": {
+    "intent": "deletion",
+    "confidence": 0.4922876100359579,
+    "authorizes_deletion": 0.20104007551604927,
+    "authorizes": false
+  },
+  "I deleted this account and received a confirmation, but the same email address is still recognized. Please remove any remaining copy of my profile.": {
+    "intent": "deletion",
+    "confidence": 0.9012217922827013,
+    "authorizes_deletion": 0.6271594693286446,
+    "authorizes": true
+  },
+  "Please change the email address used for this account. I want to continue using the service.": {
+    "intent": "correction",
+    "confidence": 0.9846523524340487,
+    "authorizes_deletion": 0.013712829683233707,
+    "authorizes": false
+  },
+  "I am requesting deletion of the account registered to this email address. Please check the records connected to the account before confirming completion. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.988710944353821,
+    "authorizes_deletion": 0.8431430973406192,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please review any identifiers connected to this account as part of the request. Please confirm when the review is complete.": {
+    "intent": "deletion",
+    "confidence": 0.9964700805972917,
+    "authorizes_deletion": 0.715267864605877,
+    "authorizes": true
+  },
+  "I need a copy of last year's invoices for my records. Please leave my profile and purchase history in place.": {
+    "intent": "access",
+    "confidence": 0.9294274337458427,
+    "authorizes_deletion": 0.019865959666965805,
+    "authorizes": false
+  },
+  "Please audit the deletion as it stood when my request was reviewed. I want confirmation that the account was fully removed at that point.": {
+    "intent": "access",
+    "confidence": 0.45544374172115454,
+    "authorizes_deletion": 0.10946289949529907,
+    "authorizes": false
+  },
+  "Can you verify that my account was deleted? A search result with a similar email belongs to someone else, so please do not treat that record as mine.": {
+    "intent": "deletion",
+    "confidence": 0.640086767900093,
+    "authorizes_deletion": 0.1390434641349841,
+    "authorizes": false
+  },
+  "I used a different email on this account before changing it. Please remove records under both addresses and switch off any integration that could copy them back into search or analytics.": {
+    "intent": "correction",
+    "confidence": 0.3338691327301067,
+    "authorizes_deletion": 0.6098169256551932,
+    "authorizes": false
+  },
+  "Can you tell me what personal information you hold about me? This is an information request, not a request to erase it.": {
+    "intent": "access",
+    "confidence": 0.9793432643979452,
+    "authorizes_deletion": 0.022744651957458152,
+    "authorizes": false
+  },
+  "My account page is gone, but my old profile still appears when I search for it. Can you remove that search result too?": {
+    "intent": "deletion",
+    "confidence": 0.7148052676283427,
+    "authorizes_deletion": 0.31910895153202135,
+    "authorizes": false
+  },
+  "I closed my account, but an old “download your data” link still works. Please delete that export file as well.": {
+    "intent": "deletion",
+    "confidence": 0.9218611179351902,
+    "authorizes_deletion": 0.617597324248937,
+    "authorizes": true
+  },
+  "Please close my account and process the associated personal-data deletion. Please check the records connected to the account before confirming completion. Please contact me if you need information to verify the request.": {
+    "intent": "deletion",
+    "confidence": 0.9976816799492263,
+    "authorizes_deletion": 0.8977845932084828,
+    "authorizes": true
+  },
+  "I no longer use this account and would like it permanently deleted. Please ensure the request is applied to the relevant account records. A short confirmation when the process is complete is sufficient.": {
+    "intent": "deletion",
+    "confidence": 0.997415109089671,
+    "authorizes_deletion": 0.9404128317160438,
+    "authorizes": true
+  },
+  "Please delete my account and the identity document I sent to support while resolving a delivery issue.": {
+    "intent": "deletion",
+    "confidence": 0.995997982355572,
+    "authorizes_deletion": 0.9374998632255875,
+    "authorizes": true
+  },
+  "I used this Yahoo address before changing the email on my account. Please remove records linked to both the old and current addresses.": {
+    "intent": "deletion",
+    "confidence": 0.5413448454256479,
+    "authorizes_deletion": 0.7018376228199835,
+    "authorizes": true
+  },
+  "I was told that deletion was complete, but the account and its search result can still be found. Please investigate and finish the deletion.": {
+    "intent": "deletion",
+    "confidence": 0.9589032155847057,
+    "authorizes_deletion": 0.48204860126419796,
+    "authorizes": false
+  },
+  "The privacy page still says my request failed. Please inspect the actual systems and tell me whether the account and identifiable analytics data have already been removed.": {
+    "intent": "deletion",
+    "confidence": 0.7732558363570692,
+    "authorizes_deletion": 0.15669023606381008,
+    "authorizes": false
+  },
+  "I found an old report saying my account still existed. Please check the latest state and confirm that the profile is gone and that remaining records cannot identify me.": {
+    "intent": "deletion",
+    "confidence": 0.43759482908688924,
+    "authorizes_deletion": 0.3421558346772263,
+    "authorizes": false
+  },
+  "Please remove me from marketing lists only. I still want receipts and service messages for this account.": {
+    "intent": "marketing_opt_out",
+    "confidence": 0.9934429440396546,
+    "authorizes_deletion": 0.031280749742758615,
+    "authorizes": false
+  },
+  "Please begin the deletion process for the account using this email address. Please include information linked through current or earlier account identifiers. Please send a confirmation after the process finishes.": {
+    "intent": "deletion",
+    "confidence": 0.9898251678719864,
+    "authorizes_deletion": 0.7626741067244598,
+    "authorizes": true
+  },
+  "Please begin the deletion process for the account using this email address. Please handle any copies that fall within the scope of the deletion request. I would appreciate confirmation of the final outcome.": {
+    "intent": "deletion",
+    "confidence": 0.9889638519970344,
+    "authorizes_deletion": 0.864611705578438,
+    "authorizes": true
+  },
+  "Please treat this message as a request for permanent account deletion. Please apply the request across the systems covered by your deletion policy. Let me know when the request has been completed.": {
+    "intent": "deletion",
+    "confidence": 0.9956113066675163,
+    "authorizes_deletion": 0.8915156936433444,
+    "authorizes": true
+  },
+  "My surname is misspelled on the account. Can you correct it without removing any of my records?": {
+    "intent": "correction",
+    "confidence": 0.9947801933263767,
+    "authorizes_deletion": 0.013109914689377162,
+    "authorizes": false
+  },
+  "I deleted my account and received the confirmation email. Could you verify that the profile is gone and that anything retained for security is limited to what is required?": {
+    "intent": "other",
+    "confidence": 0.5244247972071817,
+    "authorizes_deletion": 0.3896476816031427,
+    "authorizes": false
+  },
+  "Please delete this account, including the downloadable archive I requested earlier and any search result that still points to me. Security records can stay if policy requires them.": {
+    "intent": "deletion",
+    "confidence": 0.9950426732745571,
+    "authorizes_deletion": 0.9212572254555443,
+    "authorizes": true
+  },
+  "I can't access my profile and need help resetting the login. Do not close the account.": {
+    "intent": "login_support",
+    "confidence": 0.9886248184572358,
+    "authorizes_deletion": 0.009972415964460565,
+    "authorizes": false
+  }
+}
